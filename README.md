@@ -54,31 +54,50 @@ The dataset contains **15,000 synthetic patient records** representing breast ca
 ---
 
 ## Dashboard Pages
+## Dashboard Preview
 
 ### 1. Overview
 
+![Overview](screenshots/Overview.png)
+
 Provides a summary of total cases, early and late-stage diagnosis rates, and overall trends in breast cancer burden.
+
+---
 
 ### 2. Early vs Late Diagnosis
 
+![Early vs Late Diagnosis](screenshots/Early_vs_Late_Diagnosis.png)
+
 Analyzes patterns of early and late-stage diagnosis across regions and age groups to identify areas requiring improved screening and awareness.
+---
 
 ### 3. Cancer Characteristics
 
+![Cancer Characteristics](screenshots/Cancer_Characteristics.png)
+
 Explores clinical features such as cancer type, stage distribution, receptor status, and tumor size.
+---
 
 ### 4. Treatment and Outcomes
 
+![Treatment and Outcomes](screenshots/Treatment_Outcomes.png)
+
 Examines treatment patterns, survival outcomes, and recurrence rates among patients.
+
+---
 
 ### 5. Geographic Analysis
 
+![Geographic Analysis](screenshots/Geographic_Analysis.png)
+
 Highlights geographic disparities in breast cancer burden across regions and counties.
+---
 
 ### 6. Demographics
 
-Analyzes age and gender distribution to identify high-risk population groups.
+![Demographics](screenshots/Demographics.png)
 
+Analyzes age and gender distribution to identify high-risk population groups.
 ---
 
 ## Key Insights
